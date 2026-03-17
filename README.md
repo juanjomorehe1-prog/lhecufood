@@ -12,7 +12,7 @@ Aplicación web interactiva para crear ensaladas personalizadas y enviar el pedi
 
 ## 🚀 Demo
 
-Visita la aplicación en: `https://[JUANJOMOREHE1-PROG].github.io/constructor-ensaladas/`
+Visita la aplicación en: [`https://[JUANJOMOREHE1-PROG].github.io/constructor-ensaladas/`](https://juanjomorehe1-prog.github.io/lhecufood/)
 
 ## 📱 Uso
 
